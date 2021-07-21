@@ -1,0 +1,19 @@
+{
+  "name": "perguntas-respostas",
+  "version": "1.0.0",
+  "description": "Receber perguntas e responder com a resposta identificada",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "perguntas",
+    "respostas"
+  ],
+  "author": "Jefferson Klamas",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.0.1"
+  }
+}
