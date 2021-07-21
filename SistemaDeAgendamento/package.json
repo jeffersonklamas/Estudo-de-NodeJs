@@ -1,0 +1,21 @@
+{
+  "name": "sistemadeagendamento",
+  "version": "1.0.0",
+  "description": "Desenvolvendo um sistema de agendamento para estudo de NodeJs",
+  "main": "dist/index.js",
+  "keywords": [
+    "estudo",
+    "nodejs",
+    "agendamento"
+  ],
+  "author": "Jefferson Klamas",
+  "license": "ISC",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "sucrase": "^3.20.0"
+  }
+}
